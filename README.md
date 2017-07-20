@@ -59,3 +59,4 @@ PinchZoom is licensed under the [MIT License](http://opensource.org/licenses/MIT
 ## Github Page with demo
 
 http://rtp-ch.github.com/pinchzoom/
+http://manuelstofer.github.io/pinchzoom/
